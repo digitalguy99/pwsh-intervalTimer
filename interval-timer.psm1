@@ -21,17 +21,19 @@ function runTimer {
     $len = $Intervals.Count
     $i = 0
     do {       
-        $timer = [System.TimeSpan]::FromMinutes($Intervals[$i])
+        $timer = [System.TimeSpan]::FromMinutes($Intervals[$i])        
+        $b = [system.TimeSpan]::FromSeconds(1)     
+        $timer = $timer+$b
         $stopWatch.Start()
-        while (1) {
-            $remaining = $timer - $stopWatch.Elapsed    
-            if ($remaining.TotalSeconds -le 0) {           
+        while (1) {           
+            $remaining = $timer - $stopWatch.Elapsed     
+            if ($remaining.TotalSeconds -le 1) {           
                 break
-            }
+            }          
             $s = "{0:d2}h:{1:d2}m:{2:d2}s" -f $remaining.hours, $remaining.minutes, $remaining.seconds
             $host.ui.RawUI.WindowTitle = $s
             write-host -NoNewline "`r$s" 
-            Start-Sleep -s 1   
+            Start-Sleep -s 1
         }
         $i++
         $a = "interval.mp3"
