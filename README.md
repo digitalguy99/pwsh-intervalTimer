@@ -14,7 +14,7 @@ _Requirement: PowerShell on Windows_
 
 ## Preview
 
-![Preview](https://drive.google.com/uc?id=1c58Q0rJiJVCyPlbmFe-mfuD-XvHg4LNg)
+![Preview](https://drive.google.com/uc?id=1ofldY5RFdYPQq8KmutsSW8TGoWZVlRdp)
 
 ## Installation
 
