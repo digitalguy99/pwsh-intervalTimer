@@ -12,7 +12,7 @@
 RootModule = '.\interval-timer.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0.1'
+ModuleVersion = '1.1.1'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -30,7 +30,7 @@ CompanyName = 'Unknown'
 Copyright = '(c) 2022 Brian Tannert and Rajeswar Khan. All rights reserved.'
 
 # Description of the functionality provided by this module
-Description = 'Interval/pomodoro timer for PowerShell'
+Description = 'Interval/Pomodoro timer for PowerShell'
 
 # Minimum version of the PowerShell engine required by this module
 # PowerShellVersion = ''
@@ -101,7 +101,7 @@ PrivateData = @{
         # LicenseUri = ''
 
         # A URL to the main website for this project.
-        # ProjectUri = ''
+        ProjectUri = 'https://github.com/digitalguy99/pwsh-intervalTimer'
 
         # A URL to an icon representing this module.
         # IconUri = ''
