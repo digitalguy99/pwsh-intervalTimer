@@ -14,9 +14,7 @@ _Requirement: PowerShell on Windows_
 
 ## Preview
 
-```diff
---- Under development ---
-```
+![Preview](https://drive.google.com/uc?id=1c58Q0rJiJVCyPlbmFe-mfuD-XvHg4LNg)
 
 ## Installation
 
@@ -38,6 +36,12 @@ $ timer [duration(in minutes), duration2, .. durationN] [options] [value]
 Timer duration may be specified in decimal form, for example, 90 seconds may be specified as `1.5`.
 If multiple durations are specified, an alert will be triggered at the end of each interval.
 
+For more information, run:
+
+```pwsh
+man timer
+```
+
 ### Examples
 
 #### Simple timer (30m)
@@ -53,7 +57,7 @@ If multiple durations are specified, an alert will be triggered at the end of ea
 
     $ timer 5,25
 
-#### Pomodoro technique
+#### [Pomodoro Technique](https://todoist.com/productivity-methods/pomodoro-technique)
 
 > 1. Decide on the task to be done.
 > 2. Set the pomodoro timer (traditionally to 25 minutes).
@@ -66,4 +70,12 @@ If multiple durations are specified, an alert will be triggered at the end of ea
 
 Or to repeat this 135-minute set twice in a row,
 
-    $ timer 25 5 25 5 25 5 25 20 -r 2
+    $ timer 25,5,25,5,25,5,25,20 -r 2
+    
+## Credits
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/rajeswarkhan/" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQHgpVP7ohT_ZQ/profile-displayphoto-shrink_400_400/0/1516901471017?e=1659571200&v=beta&t=Ksn0EbeQUQcEf4goaH7cfmhrk9qW3yARCtExx0psTVI" width="100px;" alt=""/><br /><sub><b>Rajeswar Khan</b></sub></a><br /></td>
+  </tr>
+</table>
