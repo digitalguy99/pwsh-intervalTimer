@@ -12,7 +12,7 @@
 RootModule = '.\interval-timer.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.1.1'
+ModuleVersion = '1.2.1'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -104,7 +104,7 @@ PrivateData = @{
         ProjectUri = 'https://github.com/digitalguy99/pwsh-intervalTimer'
 
         # A URL to an icon representing this module.
-        # IconUri = ''
+        IconUri = 'https://cdn-icons-png.flaticon.com/512/3003/3003202.png'
 
         # ReleaseNotes of this module
         # ReleaseNotes = ''
