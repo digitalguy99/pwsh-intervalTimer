@@ -14,7 +14,9 @@ _Requirement: PowerShell on Windows_
 
 ## Preview
 
-![Preview](https://drive.google.com/uc?id=1ofldY5RFdYPQq8KmutsSW8TGoWZVlRdp)
+https://github.com/user-attachments/assets/beba5c46-f9b6-457a-8fcb-f0de69e7f738
+
+(disclainer: some parts of the clip has been sped up and alert tones have been suppressed)
 
 ## Installation
 
