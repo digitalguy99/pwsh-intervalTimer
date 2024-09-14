@@ -78,6 +78,6 @@ Or to repeat this 135-minute set twice in a row,
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/rajeswarkhan/" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQHgpVP7ohT_ZQ/profile-displayphoto-shrink_800_800/0/1516901471017?e=1665619200&v=beta&t=FcscyswT5V0YnGczJPCU-t_TfmylFeFyvhM8eVUKf78" width="100px;" alt=""/><br /><sub><b>Rajeswar Khan</b></sub></a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/rajeswarkhan/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C4D03AQHgpVP7ohT_ZQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516901476072?e=1731542400&v=beta&t=yj5Mo6Hq43u_XXf48CAqelbYeZZJaxpudQFk9vXxmHo" width="100px;" alt=""/><br /><sub><b>Rajeswar Khan</b></sub></a><br /></td>
   </tr>
 </table>
